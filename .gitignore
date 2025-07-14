@@ -1,0 +1,10 @@
+/data/
+**/__pycache__/
+**.egg-info**
+/src/DAEM/
+*.log
+/pths/
+/runs/
+/results/
+/models/
+/plots/
